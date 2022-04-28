@@ -29,7 +29,6 @@ src/.vscode/*
 src/paths.py
 preds/*
 *.h5
-*.pth
 *.checkpoint
 # Byte-compiled / optimized / DLL files
 __pycache__/
